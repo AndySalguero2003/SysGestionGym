@@ -1,0 +1,14 @@
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.EntidadesDeNegocio\bin\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.deps.json
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.EntidadesDeNegocio\bin\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.runtimeconfig.json
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.EntidadesDeNegocio\bin\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.dll
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.EntidadesDeNegocio\bin\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.pdb
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.EntidadesDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.EntidadesDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.EntidadesDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.EntidadesDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.EntidadesDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.EntidadesDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.dll
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.EntidadesDeNegocio\obj\Debug\net8.0\refint\SysGestionGym.EntidadesDeNegocio.dll
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.EntidadesDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.pdb
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.EntidadesDeNegocio\obj\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.genruntimeconfig.cache
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.EntidadesDeNegocio\obj\Debug\net8.0\ref\SysGestionGym.EntidadesDeNegocio.dll

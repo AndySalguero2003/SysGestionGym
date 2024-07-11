@@ -1,0 +1,17 @@
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\bin\Debug\net8.0\SysGestionGym.LogicaDeNegocio.deps.json
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\bin\Debug\net8.0\SysGestionGym.LogicaDeNegocio.dll
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\bin\Debug\net8.0\SysGestionGym.LogicaDeNegocio.pdb
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\bin\Debug\net8.0\SysGestioGym.AccesoADatos.dll
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\bin\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.dll
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\bin\Debug\net8.0\SysGestioGym.AccesoADatos.pdb
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\bin\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.pdb
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGestionGym.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGestionGym.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGestionGym.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGestionGym.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGestionGym.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGesti.DC3F96C8.Up2Date
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGestionGym.LogicaDeNegocio.dll
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\refint\SysGestionGym.LogicaDeNegocio.dll
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\SysGestionGym.LogicaDeNegocio.pdb
+C:\Users\Josue\source\repos\SysGestionGym\SysGestionGym.LogicaDeNegocio\obj\Debug\net8.0\ref\SysGestionGym.LogicaDeNegocio.dll

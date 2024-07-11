@@ -1,0 +1,15 @@
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\bin\Debug\net8.0\SysGestioGym.AccesoADatos.deps.json
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\bin\Debug\net8.0\SysGestioGym.AccesoADatos.dll
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\bin\Debug\net8.0\SysGestioGym.AccesoADatos.pdb
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\bin\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.dll
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\bin\Debug\net8.0\SysGestionGym.EntidadesDeNegocio.pdb
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\obj\Debug\net8.0\SysGestioGym.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\obj\Debug\net8.0\SysGestioGym.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\obj\Debug\net8.0\SysGestioGym.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\obj\Debug\net8.0\SysGestioGym.AccesoADatos.AssemblyInfo.cs
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\obj\Debug\net8.0\SysGestioGym.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\obj\Debug\net8.0\SysGesti.7AEC3879.Up2Date
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\obj\Debug\net8.0\SysGestioGym.AccesoADatos.dll
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\obj\Debug\net8.0\refint\SysGestioGym.AccesoADatos.dll
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\obj\Debug\net8.0\SysGestioGym.AccesoADatos.pdb
+C:\Users\Josue\source\repos\SysGestionGym\SysGestioGym.AccesoADatos\obj\Debug\net8.0\ref\SysGestioGym.AccesoADatos.dll
